@@ -1,0 +1,6 @@
+*.pyc
+*.json
+*~
+__pycache__
+myvenv
+pyqt_settings.ini
